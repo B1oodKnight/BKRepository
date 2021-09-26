@@ -1,2 +1,5 @@
 # BKRepository
-BK's Repository 
+
+Welcome to BK's Repository!
+
+Just for learning!
